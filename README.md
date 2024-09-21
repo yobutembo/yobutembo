@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yobu Tembo</h1>
-<h3 align="center">A full-stack web developer from Zambia, specializing in the MERN stack</h3>
+<h3 align="center">A full-stack web developer specializing in the MERN stack</h3>
 
 - 🔭 I’m currently working on **my E-commerce store**
 
